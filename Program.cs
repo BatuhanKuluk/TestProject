@@ -20,4 +20,8 @@ namespace TestProject
 
         }
     }
+    class MyClass
+    {
+        //class
+    }
 }
