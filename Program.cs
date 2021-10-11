@@ -15,13 +15,6 @@ namespace TestProject
             //deneme1brancholuşturma
             //sourcetree
 
-            // deneme2
-            //part2
-
         }
-    }
-    class MyClass
-    {
-        //class
     }
 }
